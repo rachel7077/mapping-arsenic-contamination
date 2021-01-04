@@ -5,6 +5,16 @@ https://git-scm.com/
 
 Git is used to safely store your files and keep track of changes.
 
+ReactJS
+https://reactjs.org/
+
+This is the framework used to build the webpage
+
+Create React App
+https://reactjs.org/docs/create-a-new-react-app.html
+
+This is a utility that starts the react app
+
 NodeJS
 https://nodejs.org/en/
 
