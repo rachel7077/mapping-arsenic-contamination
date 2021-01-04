@@ -1,4 +1,6 @@
-# Software
+# Mapping Arsenic contamination
+
+## Software
 
 Git
 https://git-scm.com/
@@ -34,6 +36,20 @@ Fontawesome
 https://fontawesome.com/
 
 CSS library for styling websites
+
+## References
+
+The following is a list of websites used for code references
+
+Custom icons for markers
+https://docs.mapbox.com/mapbox-gl-js/example/custom-marker-icons/
+
+Popups for markers
+https://docs.mapbox.com/mapbox-gl-js/example/set-popup/
+
+Build a React MapboxGL Component with Hooks
+https://sparkgeo.com/blog/build-a-react-mapboxgl-component-with-hooks/
+
 
 # Getting Started with Create React App
 
