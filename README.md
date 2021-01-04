@@ -3,17 +3,27 @@
 Git
 https://git-scm.com/
 
+Git is used to safely store your files and keep track of changes.
+
 NodeJS
 https://nodejs.org/en/
+
+This is the runtime engine for javascript
 
 VSCode
 https://code.visualstudio.com/
 
+This is the editor (IDE) for writing code
+
 Mapbox
 https://docs.mapbox.com/mapbox-gl-js/api/
 
+A mapping library used to map data
+
 Fontawesome
 https://fontawesome.com/
+
+CSS library for styling websites
 
 # Getting Started with Create React App
 
