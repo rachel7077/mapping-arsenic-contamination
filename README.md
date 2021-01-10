@@ -37,6 +37,10 @@ https://fontawesome.com/
 
 CSS library for styling websites
 
+## Data
+Wind data in spreadsheet gets converted to CSV (Comma seperated values)
+CSV then gets converted into JSON using http://scvjson.com/csv2json
+
 ## References
 
 The following is a list of websites used for code references
