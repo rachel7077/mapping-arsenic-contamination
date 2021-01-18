@@ -1,0 +1,1780 @@
+[
+  {
+    "state": "Alabama",
+    "powerPlants": "Colbert Fossil Plant",
+    "annualDirection": "NW",
+    "latitude": 34.74386,
+    "longitude": -87.849529
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "Widows Creek",
+    "annualDirection": "N",
+    "latitude": 34.891361,
+    "longitude": -85.750778
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "Gadsden Steam Plant",
+    "annualDirection": "SW",
+    "latitude": 34.009396,
+    "longitude": -85.967952
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "Gorgas Steam Plant",
+    "annualDirection": "SW",
+    "latitude": 33.65,
+    "longitude": -87.2
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "Charles R. Lowman",
+    "annualDirection": "S",
+    "latitude": 31.49,
+    "longitude": -87.92
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "James H. Miller Jr.",
+    "annualDirection": "SW",
+    "latitude": 33.632778,
+    "longitude": -87.059316
+  },
+  {
+    "state": "Alabama",
+    "powerPlants": "Narry Steam Plant",
+    "annualDirection": "S",
+    "latitude": 31.005908,
+    "longitude": -88.011383
+  },
+  {
+    "state": "Alaska",
+    "powerPlants": "University of Alaska Fairbanks",
+    "annualDirection": "N",
+    "latitude": 64.8558,
+    "longitude": -147.8335
+  },
+  {
+    "state": "Arizona",
+    "powerPlants": "Apache Generating Station",
+    "annualDirection": "NW",
+    "latitude": 32.061223,
+    "longitude": -109.89442
+  },
+  {
+    "state": "Arizona",
+    "powerPlants": "Cholla",
+    "annualDirection": "NE",
+    "latitude": 34.941503,
+    "longitude": -110.301074
+  },
+  {
+    "state": "Arizona",
+    "powerPlants": "Coronado Generating Station",
+    "annualDirection": "NE",
+    "latitude": 34.575952,
+    "longitude": -109.272301
+  },
+  {
+    "state": "Arizona",
+    "powerPlants": "Springerville Generating Station",
+    "annualDirection": "NE",
+    "latitude": 34.317194,
+    "longitude": -109.165968
+  },
+  {
+    "state": "Arkansas",
+    "powerPlants": "Flint Creek",
+    "annualDirection": "SW",
+    "latitude": 36.256268,
+    "longitude": -94.523592
+  },
+  {
+    "state": "Arkansas",
+    "powerPlants": "Entergy - Independence",
+    "annualDirection": "NE",
+    "latitude": 35.6784,
+    "longitude": -91.4084
+  },
+  {
+    "state": "Arkansas",
+    "powerPlants": "John W. Turk Jr.",
+    "annualDirection": "N",
+    "latitude": 33.65117,
+    "longitude": -93.811666
+  },
+  {
+    "state": "Arkansas",
+    "powerPlants": "Plum Point",
+    "annualDirection": "N",
+    "latitude": 35.66319,
+    "longitude": -89.94671
+  },
+  {
+    "state": "Arkansas",
+    "powerPlants": "White Bluff Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 34.423555,
+    "longitude": -92.140186
+  },
+  {
+    "state": "California",
+    "powerPlants": "Argus Cogeneration Plant",
+    "annualDirection": "NE",
+    "latitude": 35.764586,
+    "longitude": -117.382726
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Comanche Generating Station",
+    "annualDirection": "S",
+    "latitude": 38.208367,
+    "longitude": -104.57525
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Craig Station",
+    "annualDirection": "NW",
+    "latitude": 40.463213,
+    "longitude": -107.590866
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Hayden Station",
+    "annualDirection": "NW",
+    "latitude": 40.487122,
+    "longitude": -107.185669
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Martin Drake",
+    "annualDirection": "N",
+    "latitude": 38.824155,
+    "longitude": -104.831411
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Pawnee Station",
+    "annualDirection": "N",
+    "latitude": 40.219746,
+    "longitude": -103.678693
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Rawhide Energy Station",
+    "annualDirection": "SE",
+    "latitude": 40.860137,
+    "longitude": -105.024765
+  },
+  {
+    "state": "Colorado",
+    "powerPlants": "Ray Nixon",
+    "annualDirection": "S",
+    "latitude": 38.633422,
+    "longitude": -104.706551
+  },
+  {
+    "state": "Connecticut",
+    "powerPlants": "Bridgeport",
+    "annualDirection": "SE",
+    "latitude": 41.171133,
+    "longitude": -73.183824
+  },
+  {
+    "state": "Delaware",
+    "powerPlants": "Indian River Power Station",
+    "annualDirection": "NE",
+    "latitude": 38.585556,
+    "longitude": -75.234722
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Big Bend Station",
+    "annualDirection": "W",
+    "latitude": 27.795301,
+    "longitude": -82.403358
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "C. D. McIntosh",
+    "annualDirection": "S",
+    "latitude": 28.081194,
+    "longitude": -81.922639
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Crystal River Energy Complex",
+    "annualDirection": "W",
+    "latitude": 28.958111,
+    "longitude": -82.699722
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Stanton Energy Center",
+    "annualDirection": "S",
+    "latitude": 28.482754,
+    "longitude": -81.165996
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Deerhaven Generating Station",
+    "annualDirection": "W",
+    "latitude": 29.76182,
+    "longitude": -82.389197
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Fernandina Beach Mill",
+    "annualDirection": "NE",
+    "latitude": 30.681589,
+    "longitude": -81.45622
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Northside Generating Station",
+    "annualDirection": "NE",
+    "latitude": 30.4190719,
+    "longitude": -81.5549469
+  },
+  {
+    "state": "Florida",
+    "powerPlants": "Seminole Generating Station",
+    "annualDirection": "NE",
+    "latitude": 29.73775,
+    "longitude": -81.634722
+  },
+  {
+    "state": "Georgia",
+    "powerPlants": "Bowen",
+    "annualDirection": "SE",
+    "latitude": 34.125278,
+    "longitude": -84.92055
+  },
+  {
+    "state": "Georgia",
+    "powerPlants": "Scherer Steam Generating Station",
+    "annualDirection": "SE",
+    "latitude": 33.059639,
+    "longitude": -83.80691
+  },
+  {
+    "state": "Georgia",
+    "powerPlants": "Wansley",
+    "annualDirection": "SE",
+    "latitude": 33.413397,
+    "longitude": -85.034037
+  },
+  {
+    "state": "Hawaii",
+    "powerPlants": "AES Hawaii",
+    "annualDirection": "E",
+    "latitude": 21.306111,
+    "longitude": -158.10805
+  },
+  {
+    "state": "Idaho",
+    "powerPlants": "Amalgamated Sugar Twin Falls",
+    "annualDirection": "NW",
+    "latitude": 42.531783,
+    "longitude": -114.431659
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Archer Daniels Midland Decatur",
+    "annualDirection": "N",
+    "latitude": 39.863219,
+    "longitude": -88.8985
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Baldwin Energy Station",
+    "annualDirection": "N",
+    "latitude": 38.205484,
+    "longitude": -89.854402
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Dallman Station",
+    "annualDirection": "N",
+    "latitude": 39.754911,
+    "longitude": -89.604873
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Edwards Generation Plant",
+    "annualDirection": "SE",
+    "latitude": 40.603589,
+    "longitude": -89.663447
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Corn Products Argo",
+    "annualDirection": "NE",
+    "latitude": 41.777799,
+    "longitude": -87.824202
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Joppa Steam Plant",
+    "annualDirection": "SE",
+    "latitude": 37.210347,
+    "longitude": -88.858168
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Kincaid Generating Station",
+    "annualDirection": "N",
+    "latitude": 39.592163,
+    "longitude": -89.497214
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "",
+    "annualDirection": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "state": "",
+    "powerPlants": "Southern Illinois Power Co-Op",
+    "annualDirection": "SE",
+    "latitude": 37.624241,
+    "longitude": -88.944251
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Newton Power Station",
+    "annualDirection": "SE",
+    "latitude": 38.936111,
+    "longitude": -88.277778
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Powerton",
+    "annualDirection": "N",
+    "latitude": 40.542091,
+    "longitude": -89.680487
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Prairie state Energy Campus",
+    "annualDirection": "SE",
+    "latitude": 38.2782522,
+    "longitude": -89.6685687
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Gibson Generating Station",
+    "annualDirection": "SE",
+    "latitude": 38.3725,
+    "longitude": -87.76611
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Waukegan Generating Station",
+    "annualDirection": "NE",
+    "latitude": 42.382778,
+    "longitude": -87.820274
+  },
+  {
+    "state": "Illinois",
+    "powerPlants": "Will County Generating Station",
+    "annualDirection": "NE",
+    "latitude": 41.6348,
+    "longitude": -88.0632
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "A. B. Brown Generating Station",
+    "annualDirection": "SE",
+    "latitude": 37.911094,
+    "longitude": -87.924389
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Petersburg Generating Station",
+    "annualDirection": "NE",
+    "latitude": 38.529694,
+    "longitude": -87.247667
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Cayuga Generating Station",
+    "annualDirection": "NE",
+    "latitude": 39.921083,
+    "longitude": -87.423194
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Clifty Creek Station",
+    "annualDirection": "NE",
+    "latitude": 38.737926,
+    "longitude": -85.419738
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Edwardsport Plant",
+    "annualDirection": "NE",
+    "latitude": 38.7975064,
+    "longitude": -87.2504884
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "F. B. Culley Generating Station",
+    "annualDirection": "SE",
+    "latitude": 37.90952,
+    "longitude": -87.324976
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Gibson Generating Station East Ash Pond Number 1",
+    "annualDirection": "SE",
+    "latitude": 38.37,
+    "longitude": -87.77
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Merom Generating Station All",
+    "annualDirection": "NE",
+    "latitude": 39.07,
+    "longitude": -87.51
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Michigan City Generating Station",
+    "annualDirection": "NE",
+    "latitude": 41.7207,
+    "longitude": -86.9069
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Purdue University Wade Utility Plant",
+    "annualDirection": "NE",
+    "latitude": 40.416206,
+    "longitude": -86.912533
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Wabash River Generating Station",
+    "annualDirection": "NE",
+    "latitude": 39.530583,
+    "longitude": -87.422611
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Schahfer Generating Station",
+    "annualDirection": "SE",
+    "latitude": 41.217012,
+    "longitude": -87.023709
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Rockport Plant",
+    "annualDirection": "SE",
+    "latitude": 37.925861,
+    "longitude": -87.035528
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Warrick Power Plant",
+    "annualDirection": "SE",
+    "latitude": 37.913972,
+    "longitude": -87.332306
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Gallagher Generating Station",
+    "annualDirection": "NE",
+    "latitude": 38.263867,
+    "longitude": -85.838572
+  },
+  {
+    "state": "Indiana",
+    "powerPlants": "Whitewater Valley Generating Station",
+    "annualDirection": "NE",
+    "latitude": 39.802,
+    "longitude": -84.8953
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Archer Daniels Midland Cedar Rapids Power Plant",
+    "annualDirection": "N",
+    "latitude": 41.927344,
+    "longitude": -91.689879
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Archer Daniels Midland Clinton Power Plant",
+    "annualDirection": "SE",
+    "latitude": 41.808002,
+    "longitude": -90.232833
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Archer Daniels Midland Des Moines Power Plant",
+    "annualDirection": "N",
+    "latitude": 41.624722,
+    "longitude": -93.584467
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Burlington Generating Station",
+    "annualDirection": "SE",
+    "latitude": 40.7412,
+    "longitude": -91.11667
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "George Neal Station North",
+    "annualDirection": "SE",
+    "latitude": 42.324827,
+    "longitude": -96.379948
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "George Neal Station South",
+    "annualDirection": "SE",
+    "latitude": 42.299627,
+    "longitude": -96.361746
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Lansing Power Station",
+    "annualDirection": "SE",
+    "latitude": 43.336153,
+    "longitude": -91.166623
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Louisa Generating Station",
+    "annualDirection": "SE",
+    "latitude": 41.316881,
+    "longitude": -91.09349
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Muscatine Generating Station",
+    "annualDirection": "SE",
+    "latitude": 41.38921,
+    "longitude": -91.058635
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Ottumwa Generating Station",
+    "annualDirection": "SE",
+    "latitude": 41.096937,
+    "longitude": -92.555219
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Praire Creek Generating Station",
+    "annualDirection": "SE",
+    "latitude": 41.944053,
+    "longitude": -91.638984
+  },
+  {
+    "state": "Iowa",
+    "powerPlants": "Walter Scott Jr. Energy Center",
+    "annualDirection": "NW",
+    "latitude": 41.185592,
+    "longitude": -95.842112
+  },
+  {
+    "state": "Kansas",
+    "powerPlants": "Holcomb Station",
+    "annualDirection": "N",
+    "latitude": 37.926982,
+    "longitude": -100.992659
+  },
+  {
+    "state": "Kansas",
+    "powerPlants": "Jeffrey Energy Center",
+    "annualDirection": "N",
+    "latitude": 39.285411,
+    "longitude": -96.117075
+  },
+  {
+    "state": "Kansas",
+    "powerPlants": "La Cygne Generating Station",
+    "annualDirection": "N",
+    "latitude": 38.34803,
+    "longitude": -94.644696
+  },
+  {
+    "state": "Kansas",
+    "powerPlants": "Lawrence Energy Center",
+    "annualDirection": "N",
+    "latitude": 39.007898,
+    "longitude": -95.268544
+  },
+  {
+    "state": "Kansas",
+    "powerPlants": "Nearman Creek Power Station",
+    "annualDirection": "N",
+    "latitude": 39.170582,
+    "longitude": -94.697512
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Cooper Power Station",
+    "annualDirection": "N",
+    "latitude": 36.998056,
+    "longitude": -84.592778
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Wilson Station",
+    "annualDirection": "SE",
+    "latitude": 37.452167,
+    "longitude": -87.081667
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "East Bend Generating Station",
+    "annualDirection": "N",
+    "latitude": 38.905556,
+    "longitude": -84.851667
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "E. W. Brown Generating Station",
+    "annualDirection": "N",
+    "latitude": 37.787778,
+    "longitude": -84.713056
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Ghent Generating Station",
+    "annualDirection": "N",
+    "latitude": 38.748778,
+    "longitude": -85.034222
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Hugh L. Spurlock Generating Station",
+    "annualDirection": "N",
+    "latitude": "38.4155N",
+    "longitude": "83.490W"
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Mill Creek Station",
+    "annualDirection": "N",
+    "latitude": 38.052778,
+    "longitude": -85.910833
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Shawnee Fossil Plant",
+    "annualDirection": "SE",
+    "latitude": 37.151667,
+    "longitude": -88.777222
+  },
+  {
+    "state": "Kentucky",
+    "powerPlants": "Trimble County Generating Station",
+    "annualDirection": "N",
+    "latitude": 38.584722,
+    "longitude": -85.411944
+  },
+  {
+    "state": "Louisiana",
+    "powerPlants": "Big Cajun 2 Power Plant",
+    "annualDirection": "NW",
+    "latitude": 30.726667,
+    "longitude": -91.366944
+  },
+  {
+    "state": "Louisiana",
+    "powerPlants": "Brame Energy Center",
+    "annualDirection": "N",
+    "latitude": 31.396889,
+    "longitude": -92.719078
+  },
+  {
+    "state": "Louisiana",
+    "powerPlants": "Dolet Hills Power Station",
+    "annualDirection": "N",
+    "latitude": 32.041264,
+    "longitude": -93.566833
+  },
+  {
+    "state": "Louisiana",
+    "powerPlants": "Roy S. Nelson Generating Plant",
+    "annualDirection": "N",
+    "latitude": 30.283333,
+    "longitude": -93.288611
+  },
+  {
+    "state": "Maryland",
+    "powerPlants": "AES Warrior Run Generation Plant",
+    "annualDirection": "SE",
+    "latitude": 39.598591,
+    "longitude": -78.742902
+  },
+  {
+    "state": "Maryland",
+    "powerPlants": "Brandon Shores Generating Station",
+    "annualDirection": "N",
+    "latitude": 39.180833,
+    "longitude": -76.53033
+  },
+  {
+    "state": "Maryland",
+    "powerPlants": "Chalk Point Generating Station",
+    "annualDirection": "N",
+    "latitude": 38.543133,
+    "longitude": -76.68453
+  },
+  {
+    "state": "Maryland",
+    "powerPlants": "Herbert A. Wagner Generating Station",
+    "annualDirection": "N",
+    "latitude": 39.180833,
+    "longitude": -76.53833
+  },
+  {
+    "state": "Maryland",
+    "powerPlants": "Morgantown Generating Station",
+    "annualDirection": "NE",
+    "latitude": 38.360889,
+    "longitude": -76.972222
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Belle River Power Plant",
+    "annualDirection": "NE",
+    "latitude": 42.774537,
+    "longitude": -82.495302
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Karn Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 43.642089,
+    "longitude": -83.838188
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Eckert Station",
+    "annualDirection": "E",
+    "latitude": 42.718533,
+    "longitude": -84.55816
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Campbell Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 42.912103,
+    "longitude": -86.202006
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Monroe Power Plant",
+    "annualDirection": "NE",
+    "latitude": 41.890915,
+    "longitude": -83.345091
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "River Rouge Power Plant",
+    "annualDirection": "NE",
+    "latitude": 42.270523,
+    "longitude": -83.124699
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "St. Clair Power Plant",
+    "annualDirection": "NE",
+    "latitude": 42.763305,
+    "longitude": -82.472505
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Filer City Station",
+    "annualDirection": "E",
+    "latitude": 44.217208,
+    "longitude": -86.288938
+  },
+  {
+    "state": "Michigan",
+    "powerPlants": "Trenton Channel Power Plant",
+    "annualDirection": "NE",
+    "latitude": 42.123159,
+    "longitude": -83.181975
+  },
+  {
+    "state": "Minnesota",
+    "powerPlants": "Allen S. King Generating Plant",
+    "annualDirection": "SE",
+    "latitude": 45.030332,
+    "longitude": -92.77805
+  },
+  {
+    "state": "Minnesota",
+    "powerPlants": "Boswell Energy Center",
+    "annualDirection": "SE",
+    "latitude": 47.260705,
+    "longitude": -93.653845
+  },
+  {
+    "state": "Minnesota",
+    "powerPlants": "Hoot Lake Plant",
+    "annualDirection": "NW",
+    "latitude": 46.290791,
+    "longitude": -96.043071
+  },
+  {
+    "state": "Minnesota",
+    "powerPlants": "Sherburne County Plant",
+    "annualDirection": "SE",
+    "latitude": 45.378535,
+    "longitude": -93.896612
+  },
+  {
+    "state": "Minnesota",
+    "powerPlants": "Silver Bay Power Plant",
+    "annualDirection": "SE",
+    "latitude": 47.286684,
+    "longitude": -91.260582
+  },
+  {
+    "state": "Mississippi",
+    "powerPlants": "Red Hills Generation Facility",
+    "annualDirection": "N",
+    "latitude": 33.371389,
+    "longitude": -89.217222
+  },
+  {
+    "state": "Mississippi",
+    "powerPlants": "Daniel Generating Plant",
+    "annualDirection": "S",
+    "latitude": 30.533944,
+    "longitude": -88.55636
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Hawthorn Station",
+    "annualDirection": "N",
+    "latitude": 39.130833,
+    "longitude": -94.47777
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Iatan Generating Station",
+    "annualDirection": "N",
+    "latitude": 39.448333,
+    "longitude": -94.978611
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "John Twitty Energy Center",
+    "annualDirection": "NW",
+    "latitude": 37.151642,
+    "longitude": -93.388339
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Labadie Power Station",
+    "annualDirection": "SE",
+    "latitude": 38.562183,
+    "longitude": -90.837147
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Meramec Power Plant",
+    "annualDirection": "SE",
+    "latitude": 38.40253,
+    "longitude": -90.335768
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "New Madrid Power Plant Slag Pond 1",
+    "annualDirection": "N",
+    "latitude": 36.517,
+    "longitude": -89.56
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Rush Island Power Station",
+    "annualDirection": "SE",
+    "latitude": 38.13116,
+    "longitude": -90.262892
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Sikeston Power Station",
+    "annualDirection": "N",
+    "latitude": 36.879029,
+    "longitude": -89.620912
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Sioux Power Plant",
+    "annualDirection": "SE",
+    "latitude": 38.915012,
+    "longitude": -90.28932
+  },
+  {
+    "state": "Missouri",
+    "powerPlants": "Thomas Hill Energy Center",
+    "annualDirection": "N",
+    "latitude": 39.552701,
+    "longitude": -92.638278
+  },
+  {
+    "state": "Montana",
+    "powerPlants": "Colstrip Steam Plant",
+    "annualDirection": "NW",
+    "latitude": 45.883486,
+    "longitude": -106.612161
+  },
+  {
+    "state": "Montana",
+    "powerPlants": "Rosebud Power Plant",
+    "annualDirection": "NE",
+    "latitude": 45.975156,
+    "longitude": -106.655244
+  },
+  {
+    "state": "Montana",
+    "powerPlants": "Lewis & Clark Station",
+    "annualDirection": "NW",
+    "latitude": 47.678875,
+    "longitude": -104.157368
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Archer Daniels Midland Lincoln Power Plant",
+    "annualDirection": "N",
+    "latitude": 40.866447,
+    "longitude": -96.614811
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Gerald Gentleman Station",
+    "annualDirection": "SE",
+    "latitude": 41.083611,
+    "longitude": -101.145554
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Fremont Power Plant",
+    "annualDirection": "N",
+    "latitude": 41.4286,
+    "longitude": -96.4586
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Nebraska City Station",
+    "annualDirection": "N",
+    "latitude": 40.62377,
+    "longitude": -95.777123
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "North Omaha Station",
+    "annualDirection": "NW",
+    "latitude": 41.328746,
+    "longitude": -95.949124
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Platte Generating Station",
+    "annualDirection": "N",
+    "latitude": 40.855103,
+    "longitude": -98.348679
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Sheldon Station",
+    "annualDirection": "N",
+    "latitude": 40.552055,
+    "longitude": -96.783233
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Western Sugar Cooperative Scottsbluff",
+    "annualDirection": "SE",
+    "latitude": 41.8666,
+    "longitude": -103.6672
+  },
+  {
+    "state": "Nebraska",
+    "powerPlants": "Whelan Energy Center",
+    "annualDirection": "SE",
+    "latitude": 40.580619,
+    "longitude": -98.310782
+  },
+  {
+    "state": "New Hampshire",
+    "powerPlants": "Merrimack Station",
+    "annualDirection": "E",
+    "latitude": 43.141437,
+    "longitude": -71.46867
+  },
+  {
+    "state": "New Hampshire",
+    "powerPlants": "Schiller Station",
+    "annualDirection": "SE",
+    "latitude": 43.097608,
+    "longitude": -70.783805
+  },
+  {
+    "state": "New Jersey",
+    "powerPlants": "Chambers Cogeneration Plant",
+    "annualDirection": "E",
+    "latitude": 39.693647,
+    "longitude": -75.485559
+  },
+  {
+    "state": "New Jersey",
+    "powerPlants": "Logan Generating Plant",
+    "annualDirection": "E",
+    "latitude": 39.789722,
+    "longitude": -75.403333
+  },
+  {
+    "state": "New Mexico",
+    "powerPlants": "Escalante Generating Station",
+    "annualDirection": "S",
+    "latitude": 35.415997,
+    "longitude": -108.083798
+  },
+  {
+    "state": "New Mexico",
+    "powerPlants": "Four Corners Steam Plant",
+    "annualDirection": "S",
+    "latitude": 36.689047,
+    "longitude": -108.480946
+  },
+  {
+    "state": "New Mexico",
+    "powerPlants": "San Juan Generating Station",
+    "annualDirection": "S",
+    "latitude": 36.801667,
+    "longitude": -108.438611
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Belews Creek Steam Station",
+    "annualDirection": "NE",
+    "latitude": 36.28,
+    "longitude": -80.060556
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Canton Mill Power Plant",
+    "annualDirection": "NE",
+    "latitude": 35.5349,
+    "longitude": -82.84338
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "G. G. Allen Steam Plant",
+    "annualDirection": "SE",
+    "latitude": 35.190278,
+    "longitude": -81.008333
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "James E. Rogers Energy Complex",
+    "annualDirection": "SE",
+    "latitude": 35.217222,
+    "longitude": -81.761111
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Marshall Steam Station",
+    "annualDirection": "NE",
+    "latitude": 35.595278,
+    "longitude": -80.964444
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Mayo Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 36.53,
+    "longitude": -78.89
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Primary Energy Roxboro Power Plant",
+    "annualDirection": "NE",
+    "latitude": 36.43492,
+    "longitude": -78.961202
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "Southport Plant",
+    "annualDirection": "NE",
+    "latitude": 33.944822,
+    "longitude": -78.011556
+  },
+  {
+    "state": "North Carolina",
+    "powerPlants": "University of North Carolina Chapel Hill Cogen",
+    "annualDirection": "NE",
+    "latitude": 35.906289,
+    "longitude": -79.062244
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Antelope Valley Station Decant Pond",
+    "annualDirection": "SE",
+    "latitude": 47.368,
+    "longitude": -101.84
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Coal Creek Station",
+    "annualDirection": "SE",
+    "latitude": 47.376944,
+    "longitude": -101.157222
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Coyote Station",
+    "annualDirection": "SE",
+    "latitude": 47.221586,
+    "longitude": -101.815566
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Leland Olds Station",
+    "annualDirection": "SE",
+    "latitude": 47.281667,
+    "longitude": -101.319444
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Milton R. Young Station",
+    "annualDirection": "SE",
+    "latitude": 47.066227,
+    "longitude": -101.213512
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Heskett Station",
+    "annualDirection": "SE",
+    "latitude": 46.866894,
+    "longitude": -100.883989
+  },
+  {
+    "state": "North Dakota",
+    "powerPlants": "Spiritwood Industrial Park",
+    "annualDirection": "SE",
+    "latitude": 46.92569,
+    "longitude": -98.49999
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Avon Lake Power Plant",
+    "annualDirection": "NE",
+    "latitude": 41.504192,
+    "longitude": -82.054457
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Cardinal Plant",
+    "annualDirection": "N",
+    "latitude": 40.251872,
+    "longitude": -80.648224
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "General James M. Gavin Power Plant",
+    "annualDirection": "NE",
+    "latitude": 38.93,
+    "longitude": -82.12
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Kyger Creek Station",
+    "annualDirection": "NE",
+    "latitude": 38.914247,
+    "longitude": -82.129058
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Eastlake Power Plant",
+    "annualDirection": "NE",
+    "latitude": 41.674858,
+    "longitude": -81.439938
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Miami Fort Station",
+    "annualDirection": "SE",
+    "latitude": 39.114243,
+    "longitude": -84.802948
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Sammis Plant",
+    "annualDirection": "N",
+    "latitude": 40.531322,
+    "longitude": -80.631731
+  },
+  {
+    "state": "Ohio",
+    "powerPlants": "Zimmer Generating Station",
+    "annualDirection": "SE",
+    "latitude": 38.867159,
+    "longitude": -84.228703
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "Hugo Plant",
+    "annualDirection": "N",
+    "latitude": 34.013611,
+    "longitude": -95.325611
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "Fort James Muskogee Mill Power Plant",
+    "annualDirection": "N",
+    "latitude": 35.732444,
+    "longitude": -95.293756
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "Musogee Generating Station",
+    "annualDirection": "N",
+    "latitude": 35.761605,
+    "longitude": -95.287463
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "Northeastern Station",
+    "annualDirection": "N",
+    "latitude": 36.426204,
+    "longitude": -95.700069
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "River Valley Power Station",
+    "annualDirection": "SW",
+    "latitude": 35.193905,
+    "longitude": -94.645603
+  },
+  {
+    "state": "Oklahoma",
+    "powerPlants": "Sooner Generating Station",
+    "annualDirection": "NW",
+    "latitude": 36.453773,
+    "longitude": -97.052854
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Brunner Island Power Station",
+    "annualDirection": "E",
+    "latitude": 40.094167,
+    "longitude": -76.695778
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Cheswick Power Station",
+    "annualDirection": "NE",
+    "latitude": 40.538333,
+    "longitude": -79.789722
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Colver Power Project",
+    "annualDirection": "NE",
+    "latitude": 40.55378,
+    "longitude": -78.798226
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Conemaugh Generating Station",
+    "annualDirection": "NE",
+    "latitude": 40.384472,
+    "longitude": -79.060537
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Ebensburg Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 40.455004,
+    "longitude": -78.747572
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Homer City Generating Station",
+    "annualDirection": "NE",
+    "latitude": 40.511406,
+    "longitude": -79.197677
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "John B. Rich Memorial",
+    "annualDirection": "E",
+    "latitude": 40.790579,
+    "longitude": -76.198177
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Keystone Generating Station",
+    "annualDirection": "NE",
+    "latitude": 40.658333,
+    "longitude": -79.340278
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Montour Steam Station",
+    "annualDirection": "E",
+    "latitude": 41.069249,
+    "longitude": -76.665755
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Mt. Carmel Cogeneration Facility",
+    "annualDirection": "E",
+    "latitude": 40.811245,
+    "longitude": -76.454013
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Northampton Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 40.691111,
+    "longitude": -75.47916
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Panther Creek Energy Facility",
+    "annualDirection": "NE",
+    "latitude": 40.854596,
+    "longitude": -75.878464
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Scrubgrass Generating Plant",
+    "annualDirection": "NE",
+    "latitude": 41.268582,
+    "longitude": -79.813664
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Montour Steam Station",
+    "annualDirection": "E",
+    "latitude": 41.069249,
+    "longitude": -76.665755
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Seward Power Plant",
+    "annualDirection": "NE",
+    "latitude": 40.406076,
+    "longitude": -79.033629
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Hatfields Ferry power station",
+    "annualDirection": "NE",
+    "latitude": 39.853889,
+    "longitude": -79.927778
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Blaschak Coal Corporation",
+    "annualDirection": "E",
+    "latitude": 40.804935455322266,
+    "longitude": -76.17292022705078
+  },
+  {
+    "state": "Pennsylvania",
+    "powerPlants": "Westwood",
+    "annualDirection": "E",
+    "latitude": 40.618788,
+    "longitude": -76.451047
+  },
+  {
+    "state": "South Carolina",
+    "powerPlants": "Cope Station",
+    "annualDirection": "NW",
+    "latitude": 33.366889,
+    "longitude": -81.034444
+  },
+  {
+    "state": "South Carolina",
+    "powerPlants": "Cross Generating Station",
+    "annualDirection": "NE",
+    "latitude": 33.368809,
+    "longitude": -80.11308
+  },
+  {
+    "state": "South Carolina",
+    "powerPlants": "Wateree Station",
+    "annualDirection": "NE",
+    "latitude": 33.826374,
+    "longitude": -80.621813
+  },
+  {
+    "state": "South Carolina",
+    "powerPlants": "Williams Station",
+    "annualDirection": "NE",
+    "latitude": 33.01627,
+    "longitude": -79.928798
+  },
+  {
+    "state": "South Carolina",
+    "powerPlants": "Winyah Generating Station",
+    "annualDirection": "NE",
+    "latitude": 33.330767,
+    "longitude": -79.357811
+  },
+  {
+    "state": "Tennessee",
+    "powerPlants": "Bull Run Fossil Plant",
+    "annualDirection": "SW",
+    "latitude": 36.021279,
+    "longitude": -84.155846
+  },
+  {
+    "state": "Tennessee",
+    "powerPlants": "Cumberland Steam Plant",
+    "annualDirection": "N",
+    "latitude": 36.391944,
+    "longitude": -87.655556
+  },
+  {
+    "state": "Tennessee",
+    "powerPlants": "Gallatin Fossil Plant",
+    "annualDirection": "N",
+    "latitude": 36.315278,
+    "longitude": -86.400278
+  },
+  {
+    "state": "Tennessee",
+    "powerPlants": "Kingston Fossil Plant",
+    "annualDirection": "SW",
+    "latitude": 35.898802,
+    "longitude": -84.519492
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Coleto Creek Power Station",
+    "annualDirection": "NW",
+    "latitude": 28.713333,
+    "longitude": -97.213333
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Fayette Power Project",
+    "annualDirection": "N",
+    "latitude": 29.916594,
+    "longitude": -96.751666
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Harrington Station",
+    "annualDirection": "N",
+    "latitude": 35.298973,
+    "longitude": -101.747666
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Welsh Power Plant",
+    "annualDirection": "N",
+    "latitude": 33.055,
+    "longitude": -94.84027
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Limestone Generating Station",
+    "annualDirection": "N",
+    "latitude": 31.42333,
+    "longitude": -96.251046
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Major Oak Power Station",
+    "annualDirection": "N",
+    "latitude": 31.091417,
+    "longitude": -96.692833
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Martin Lake Steam Station",
+    "annualDirection": "N",
+    "latitude": 32.259167,
+    "longitude": -94.568611
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Oak Grove Plant",
+    "annualDirection": "N",
+    "latitude": 31.182136,
+    "longitude": -96.487621
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Pirkey Power Plant",
+    "annualDirection": "N",
+    "latitude": 32.46,
+    "longitude": -94.48
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Sandy Creek Plant",
+    "annualDirection": "N",
+    "latitude": 31.47506,
+    "longitude": -96.95735
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "San Miguel Mine",
+    "annualDirection": "NW",
+    "latitude": 28.683058,
+    "longitude": -98.48402
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Tolk Station",
+    "annualDirection": "N",
+    "latitude": 34.183269,
+    "longitude": -102.569474
+  },
+  {
+    "state": "Texas",
+    "powerPlants": "Parishn Generating Station",
+    "annualDirection": "NW",
+    "latitude": 29.475722,
+    "longitude": -95.636167
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Desert Power Plant",
+    "annualDirection": "NW",
+    "latitude": 40.9131,
+    "longitude": -112.7342
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Hunter Power Plant",
+    "annualDirection": "NW",
+    "latitude": 39.173697,
+    "longitude": -111.029005
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Huntington Power Plant",
+    "annualDirection": "NW",
+    "latitude": 39.379271,
+    "longitude": -111.078178
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Bonanza Power Plant",
+    "annualDirection": "NW",
+    "latitude": 40.086497,
+    "longitude": -109.286374
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Intermountain Power Station",
+    "annualDirection": "NW",
+    "latitude": 39.509193,
+    "longitude": -112.580204
+  },
+  {
+    "state": "Utah",
+    "powerPlants": "Sunnyside Cogeneration Facility",
+    "annualDirection": "NW",
+    "latitude": 39.546249,
+    "longitude": -110.391057
+  },
+  {
+    "state": "Virginia",
+    "powerPlants": "Birchwood Power Facility",
+    "annualDirection": "NE",
+    "latitude": 38.265423,
+    "longitude": -77.314233
+  },
+  {
+    "state": "Virginia",
+    "powerPlants": "Chesterfield Power Station",
+    "annualDirection": "NE",
+    "latitude": 37.382922,
+    "longitude": -77.38268
+  },
+  {
+    "state": "Virginia",
+    "powerPlants": "Clover Power Station",
+    "annualDirection": "SE",
+    "latitude": 36.8707,
+    "longitude": -78.703
+  },
+  {
+    "state": "Virginia",
+    "powerPlants": "Virginia City Hybrid Energy Center",
+    "annualDirection": "SE",
+    "latitude": 36.915514,
+    "longitude": -82.339824
+  },
+  {
+    "state": "Washington",
+    "powerPlants": "Centralia Power Plant",
+    "annualDirection": "NE",
+    "latitude": 46.755557,
+    "longitude": -122.857781
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Fort Martin Power Station",
+    "annualDirection": "SE",
+    "latitude": 39.710188,
+    "longitude": -79.927651
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Grant Town Power Plant",
+    "annualDirection": "NE",
+    "latitude": 39.560277,
+    "longitude": -80.162893
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Harrison Power Station",
+    "annualDirection": "NE",
+    "latitude": 39.384389,
+    "longitude": -80.331889
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Amos Plant",
+    "annualDirection": "NE",
+    "latitude": 38.4739803,
+    "longitude": -81.8226314
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Longview Plant",
+    "annualDirection": "NE",
+    "latitude": 39.707799,
+    "longitude": -79.958217
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Mitchell Plant",
+    "annualDirection": "NE",
+    "latitude": 39.829593,
+    "longitude": -80.816328
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Mountaineer Plant",
+    "annualDirection": "NE",
+    "latitude": 38.978416,
+    "longitude": -81.933662
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Mount Storm Power Station",
+    "annualDirection": "SE",
+    "latitude": 39.200556,
+    "longitude": -79.264167
+  },
+  {
+    "state": "West Virginia",
+    "powerPlants": "Pleasants Power Station",
+    "annualDirection": "NE",
+    "latitude": 39.365889,
+    "longitude": -81.297306
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Biron Mill Power Plant",
+    "annualDirection": "N",
+    "latitude": 44.430025,
+    "longitude": -89.780535
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Columbia Energy Center",
+    "annualDirection": "N",
+    "latitude": 43.485855,
+    "longitude": -89.420547
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Edgewater Generating Station",
+    "annualDirection": "NE",
+    "latitude": 43.715853,
+    "longitude": -87.710084
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Genoa",
+    "annualDirection": "N",
+    "latitude": "43°33′33″N 91°13′55″W",
+    "longitude": ""
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "John Madgett Station",
+    "annualDirection": "N",
+    "latitude": 44.302273,
+    "longitude": -91.912679
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Elm Road Generating Station",
+    "annualDirection": "SE",
+    "latitude": 42.849751,
+    "longitude": -87.833467
+  },
+  {
+    "state": "Wisconsin",
+    "powerPlants": "Weston Power Plant",
+    "annualDirection": "N",
+    "latitude": 44.858063,
+    "longitude": -89.650045
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Dave Johnston Power Plant",
+    "annualDirection": "NE",
+    "latitude": 42.838149,
+    "longitude": -105.776922
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Dry Fork Station",
+    "annualDirection": "SE",
+    "latitude": 44.3888889,
+    "longitude": -105.4608
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Jim Bridger Steam Plant",
+    "annualDirection": "NE",
+    "latitude": 41.737522,
+    "longitude": -108.787292
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Laramie River Station",
+    "annualDirection": "NE",
+    "latitude": 42.109034,
+    "longitude": -104.881371
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Naughton Power Plant",
+    "annualDirection": "NE",
+    "latitude": 41.757232,
+    "longitude": -110.597654
+  },
+  {
+    "state": "Wyoming",
+    "powerPlants": "Wyodak Power Plant",
+    "annualDirection": "SE",
+    "latitude": 44.288754,
+    "longitude": -105.384951
+  }
+]
