@@ -30,6 +30,9 @@ This is the editor (IDE) for writing code
 Mapbox
 https://docs.mapbox.com/mapbox-gl-js/api/
 
+Mapbox Geocoder
+https://github.com/mapbox/mapbox-gl-geocoder
+
 A mapping library used to map data
 
 Fontawesome

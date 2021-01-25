@@ -6,6 +6,9 @@ import React, { useEffect, useRef, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import { computeDestinationPoint } from 'geolib';
 
+import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
+import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
+
 
 import wind from './data/windv2.json'
 
@@ -37,13 +40,24 @@ const HeatmapSample = () => {
 
       const point = wind[0];
 
-      //add code between here 
+
+
       const map = new mapboxgl.Map({
         container: mapContainer.current,
         style: "mapbox://styles/mapbox/streets-v11",
         center: [point.longitude, point.latitude,],
         zoom: 3
       });
+
+      //add code between here 
+      const geocoder = new MapboxGeocoder({
+        accessToken: mapboxgl.accessToken,
+        mapboxgl: mapboxgl
+      });
+
+      map.addControl(geocoder);
+      map.addControl(new mapboxgl.NavigationControl());
+
 
       //and here
 
@@ -81,16 +95,16 @@ const HeatmapSample = () => {
         wind.forEach(data => {
           const p1 = computeDestinationPoint(
             { latitude: data.latitude, longitude: data.longitude },
-            15000,
-            45
+            68278.0285,
+            data.annualDirection
           );
-  
+
           const p2 = computeDestinationPoint(
             { latitude: data.latitude, longitude: data.longitude },
-            15000,
-            135
+            68278.0285,
+            data.direction
           );
-  
+
           const allPoints = [
             [data.longitude, data.latitude],
             [p1.longitude, p1.latitude],
