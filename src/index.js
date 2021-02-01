@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './App';
-import HeatmapSample from './HeatmapSample';
+import ArsenicHeatmap from './ArsenicHeatmap';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HeatmapSample />
+    <ArsenicHeatmap />
   </React.StrictMode>,
   document.getElementById('root')
 );

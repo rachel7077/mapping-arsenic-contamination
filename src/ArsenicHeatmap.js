@@ -28,7 +28,7 @@ const styles = {
   position: "absolute"
 };
 
-const HeatmapSample = () => {
+const ArsenicHeatmap = () => {
 
   const [map, setMap] = useState(null);
   const mapContainer = useRef(null);
@@ -69,8 +69,15 @@ const HeatmapSample = () => {
             var el = document.createElement('div');
             el.className = 'fas fa-industry fa-2x';
 
+            let retirement = '';
+            if (data.retirement){
+              retirement = `${data.retirement}`;
+            }
+
+
             const popup = new mapboxgl.Popup({ offset: 25 })
-              .setText(data.powerPlants);
+              // .setText(data.powerPlants + "\n" + data.retirement); 
+              .setHTML(`<div><strong>${data.powerPlants}</strong><div>${retirement}</div></div>`)
 
             new mapboxgl.Marker({ element: el })
               .setLngLat([data.longitude, data.latitude])
@@ -162,4 +169,4 @@ const HeatmapSample = () => {
   return <div ref={el => (mapContainer.current = el)} style={styles} />;
 };
 
-export default HeatmapSample;
+export default ArsenicHeatmap;

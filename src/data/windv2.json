@@ -1,59 +1,11 @@
 [
   {
-    "state": "Alabama",
-    "powerPlants": "Colbert Fossil Plant",
-    "annualDirection": 270,
-    "direction": 360,
-    "latitude": 34.74386,
-    "longitude": -87.849529
-  },
-  {
-    "state": "Alabama",
-    "powerPlants": "Widows Creek",
-    "annualDirection": 45,
-    "direction": 315,
-    "latitude": 34.891361,
-    "longitude": -85.750778
-  },
-  {
-    "state": "Alabama",
-    "powerPlants": "Gadsden Steam Plant",
-    "annualDirection": 180,
-    "direction": 270,
-    "latitude": 34.009396,
-    "longitude": -85.967952
-  },
-  {
-    "state": "Alabama",
-    "powerPlants": "Gorgas Steam Plant",
-    "annualDirection": 180,
-    "direction": 270,
-    "latitude": 33.65,
-    "longitude": -87.2
-  },
-  {
-    "state": "Alabama",
-    "powerPlants": "Charles R. Lowman",
-    "annualDirection": 135,
-    "direction": 225,
-    "latitude": 31.49,
-    "longitude": -87.92
-  },
-  {
-    "state": "Alabama",
+    "state": "Alabama", 
     "powerPlants": "James H. Miller Jr.",
     "annualDirection": 180,
     "direction": 270,
     "latitude": 33.632778,
     "longitude": -87.059316
-  },
-  {
-    "state": "Alabama",
-    "powerPlants": "Narry Steam Plant",
-    "annualDirection": 135,
-    "direction": 225,
-    "latitude": 31.005908,
-    "longitude": -88.011383
   },
   {
     "state": "Alaska", 
@@ -74,6 +26,7 @@
   {
     "state": "Arizona",
     "powerPlants": "Cholla",
+    "retirement": "Retiring in 2025.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 34.941503,
@@ -82,6 +35,7 @@
   {
     "state": "Arizona",
     "powerPlants": "Coronado Generating Station",
+    "retirement": "Unit 1 will retire before 2032.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 34.575952,
@@ -97,7 +51,7 @@
   },
   {
     "state": "Arkansas",
-    "powerPlants": "Flint Creek",
+    "powerPlants": "Flint Creek Power Plant",
     "annualDirection": 180,
     "direction": 270,
     "latitude": 36.256268,
@@ -106,6 +60,7 @@
   {
     "state": "Arkansas",
     "powerPlants": "Entergy - Independence",
+    "retirement": "Both units will retire in 2030.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 35.6784,
@@ -113,7 +68,7 @@
   },
   {
     "state": "Arkansas",
-    "powerPlants": "John W. Turk Jr.",
+    "powerPlants": "John W. Turk Jr. Power Plant",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 33.65117,
@@ -121,7 +76,7 @@
   },
   {
     "state": "Arkansas",
-    "powerPlants": "Plum Point",
+    "powerPlants": "Plum Point Energy Station",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 35.66319,
@@ -130,6 +85,7 @@
   {
     "state": "Arkansas",
     "powerPlants": "White Bluff Generating Plant",
+    "retirement": "Both units will retire in 2028.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 34.423555,
@@ -146,6 +102,7 @@
   {
     "state": "Colorado",
     "powerPlants": "Comanche Generating Station",
+    "retirement": "Unit 1 will retire in 2022, and Unit 2 will retire in 2025.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 38.208367,
@@ -154,6 +111,7 @@
   {
     "state": "Colorado",
     "powerPlants": "Craig Station",
+    "retirement": "Unit 1 will retire by the end of 2025, unit 2 will retire in 2028 and unit 3 will retire by 2028.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 40.463213,
@@ -162,6 +120,7 @@
   {
     "state": "Colorado",
     "powerPlants": "Hayden Station",
+    "retirement": "Unit 2 will retire by the end of 2027, and Unit 1 will retire in 2028.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 40.487122,
@@ -169,7 +128,8 @@
   },
   {
     "state": "Colorado",
-    "powerPlants": "Martin Drake",
+    "powerPlants": "Martin Drake Power Plant",
+    "retirement": "Retiring by 2035.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 38.824155,
@@ -178,6 +138,7 @@
   {
     "state": "Colorado",
     "powerPlants": "Pawnee Station",
+    "retirement":"Planned to retire in 2041.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 40.219746,
@@ -186,6 +147,7 @@
   {
     "state": "Colorado",
     "powerPlants": "Rawhide Energy Station",
+    "retirement": "Retiring by 2028.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 40.860137,
@@ -193,7 +155,8 @@
   },
   {
     "state": "Colorado",
-    "powerPlants": "Ray Nixon",
+    "powerPlants": "Ray Nixon Power Plant",
+    "retirement": "Retiring by the end of 2028.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 38.633422,
@@ -201,7 +164,8 @@
   },
   {
     "state": "Connecticut",
-    "powerPlants": "Bridgeport",
+    "powerPlants": "Bridgeport Harbor Station",
+    "retirement": "Retiring in 2021.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 41.171133,
@@ -218,6 +182,7 @@
   {
     "state": "Florida",
     "powerPlants": "Big Bend Station",
+    "retirement": "Unit 1 will switch to natural gas by 2023, and unit 2 will retire in 2021.",
     "annualDirection": 225,
     "direction": 315,
     "latitude": 27.795301,
@@ -225,7 +190,8 @@
   },
   {
     "state": "Florida",
-    "powerPlants": "C. D. McIntosh",
+    "powerPlants": "C. D. McIntosh Power Plant",
+    "retirement": "Retiring in 2024.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 28.081194,
@@ -242,6 +208,7 @@
   {
     "state": "Florida",
     "powerPlants": "Stanton Energy Center",
+    "retirement": "Retiring before the end of 2040.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 28.482754,
@@ -281,7 +248,7 @@
   },
   {
     "state": "Georgia",
-    "powerPlants": "Bowen",
+    "powerPlants": "Plant Bowen",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 34.125278,
@@ -290,6 +257,7 @@
   {
     "state": "Georgia",
     "powerPlants": "Scherer Steam Generating Station",
+    "retirement": "Unit 4 is scheduled to retire in 2022.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 33.059639,
@@ -297,7 +265,7 @@
   },
   {
     "state": "Georgia",
-    "powerPlants": "Wansley",
+    "powerPlants": "Wansley Plant",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 33.413397,
@@ -305,7 +273,8 @@
   },
   {
     "state": "Hawaii",
-    "powerPlants": "AES Hawaii",
+    "powerPlants": "AES Hawaii Generation Plant",
+    "retirement": "Retiring in 2022.",
     "annualDirection": 45,
     "direction": 135,
     "latitude": 21.306111,
@@ -313,7 +282,7 @@
   },
   {
     "state": "Idaho",
-    "powerPlants": "Amalgamated Sugar Twin Falls",
+    "powerPlants": "Amalgamated Sugar Twin Falls Power Plant",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 42.531783,
@@ -321,7 +290,7 @@
   },
   {
     "state": "Illinois",
-    "powerPlants": "Archer Daniels Midland Decatur",
+    "powerPlants": "Archer Daniels Midland Decatur Power Plant",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 39.863219,
@@ -330,6 +299,7 @@
   {
     "state": "Illinois",
     "powerPlants": "Baldwin Energy Station",
+    "retirement": "Retiring before the end of 2025.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 38.205484,
@@ -338,6 +308,7 @@
   {
     "state": "Illinois",
     "powerPlants": "Dallman Station",
+    "retirement": "Unit 3 will retire in 2023.", 
     "annualDirection": 45,
     "direction": 315,
     "latitude": 39.754911,
@@ -346,6 +317,7 @@
   {
     "state": "Illinois",
     "powerPlants": "Edwards Generation Plant",
+    "retirement": "Retiring before the end of 2022.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 40.603589,
@@ -353,15 +325,8 @@
   },
   {
     "state": "Illinois",
-    "powerPlants": "Corn Products Argo",
-    "annualDirection": 0,
-    "direction": 90,
-    "latitude": 41.777799,
-    "longitude": -87.824202
-  },
-  {
-    "state": "Illinois",
     "powerPlants": "Joppa Steam Plant",
+    "retirement": "Retiring before the end of 2025.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 37.210347,
@@ -370,6 +335,7 @@
   {
     "state": "Illinois",
     "powerPlants": "Kincaid Generating Station",
+    "retirement": "Retiring before the end of 2027.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 39.592163,
@@ -377,22 +343,16 @@
   },
   {
     "state": "Illinois",
-    "powerPlants": "",
-    "annualDirection": "",
-    "latitude": "",
-    "longitude": ""
-  },
-  {
-    "state": "",
-    "powerPlants": "Southern Illinois Power Co-Op",
+    "powerPlants": "Marion Plant",
     "annualDirection": 90,
     "direction": 180,
-    "latitude": 37.624241,
-    "longitude": -88.944251
+    "latitude": 37.620556,
+    "longitude":  -88.955
   },
   {
     "state": "Illinois",
     "powerPlants": "Newton Power Station",
+    "retirement": "Retiring before the end of 2027.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 38.936111,
@@ -400,7 +360,7 @@
   },
   {
     "state": "Illinois",
-    "powerPlants": "Powerton",
+    "powerPlants": "Powerton Generating Station",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 40.542091,
@@ -441,6 +401,7 @@
   {
     "state": "Indiana",
     "powerPlants": "A. B. Brown Generating Station",
+    "retirement": "Retiring in 2023.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 37.911094,
@@ -449,6 +410,7 @@
   {
     "state": "Indiana",
     "powerPlants": "Petersburg Generating Station",
+    "retirement":"Unit 1 is retiring in 2021, and unit 2 is retiring in 2023.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 38.529694,
@@ -481,6 +443,7 @@
   {
     "state": "Indiana",
     "powerPlants": "F. B. Culley Generating Station",
+    "retirement": "Unit 2 is retiring in 2023.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 37.90952,
@@ -505,6 +468,7 @@
   {
     "state": "Indiana",
     "powerPlants": "Michigan City Generating Station",
+    "retirement":"Reitiring in 2028.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 41.7207,
@@ -520,15 +484,8 @@
   },
   {
     "state": "Indiana",
-    "powerPlants": "Wabash River Generating Station",
-    "annualDirection": 0,
-    "direction": 90,
-    "latitude": 39.530583,
-    "longitude": -87.422611
-  },
-  {
-    "state": "Indiana",
     "powerPlants": "Schahfer Generating Station",
+    "retirement": "Retiring in 2023.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 41.217012,
@@ -537,6 +494,7 @@
   {
     "state": "Indiana",
     "powerPlants": "Rockport Plant",
+    "retirement": "Unit 1 is retiring by 2028.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 37.925861,
@@ -553,6 +511,7 @@
   {
     "state": "Indiana",
     "powerPlants": "Gallagher Generating Station",
+    "retirement": "Units 2 and 4 are retiring in 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 38.263867,
@@ -593,6 +552,7 @@
   {
     "state": "Iowa",
     "powerPlants": "Burlington Generating Station",
+    "retirement": "Retiring by the end of 2021.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 40.7412,
@@ -617,6 +577,7 @@
   {
     "state": "Iowa",
     "powerPlants": "Lansing Power Station",
+    "retirement": "Retiring in 2022.",    
     "annualDirection": 90,
     "direction": 180,
     "latitude": 43.336153,
@@ -649,6 +610,7 @@
   {
     "state": "Iowa",
     "powerPlants": "Praire Creek Generating Station",
+    "retirement": "Retiring in 2025.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 41.944053,
@@ -777,6 +739,7 @@
   {
     "state": "Louisiana",
     "powerPlants": "Big Cajun 2 Power Plant",
+    "retirement": "Unit 1 is retiring in 2025.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 30.726667,
@@ -793,6 +756,7 @@
   {
     "state": "Louisiana",
     "powerPlants": "Dolet Hills Power Station",
+    "retirement": "Retiring by 2021 or 2026.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 32.041264,
@@ -817,6 +781,7 @@
   {
     "state": "Maryland",
     "powerPlants": "Brandon Shores Generating Station",
+    "retirement": "Stop using coal by 2025.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 39.180833,
@@ -825,6 +790,7 @@
   {
     "state": "Maryland",
     "powerPlants": "Chalk Point Generating Station",
+    "retirement": "Retiring by 2021.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 38.543133,
@@ -833,6 +799,7 @@
   {
     "state": "Maryland",
     "powerPlants": "Herbert A. Wagner Generating Station",
+    "retirement": "Stop using coal by 2025",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 39.180833,
@@ -849,6 +816,7 @@
   {
     "state": "Michigan",
     "powerPlants": "Belle River Power Plant",
+    "retirement": "Unit 1 will scheduled retire in 2029, and Unit 2 will retire in 2030.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.774537,
@@ -857,6 +825,7 @@
   {
     "state": "Michigan",
     "powerPlants": "Karn Generating Plant",
+    "retirement": "Retiring in 2023.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 43.642089,
@@ -864,15 +833,8 @@
   },
   {
     "state": "Michigan",
-    "powerPlants": "Eckert Station",
-    "annualDirection": 45,
-    "direction": 135,
-    "latitude": 42.718533,
-    "longitude": -84.55816
-  },
-  {
-    "state": "Michigan",
     "powerPlants": "Campbell Generating Plant",
+    "retirement": "Unit 1 and 2 will retire by 2031, and unit 3 will retire by 2040.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.912103,
@@ -881,6 +843,7 @@
   {
     "state": "Michigan",
     "powerPlants": "Monroe Power Plant",
+    "retirement": "Retiring before 2040.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 41.890915,
@@ -889,6 +852,7 @@
   {
     "state": "Michigan",
     "powerPlants": "River Rouge Power Plant",
+    "Retirement": "Unit 3 will retire in 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.270523,
@@ -897,6 +861,7 @@
   {
     "state": "Michigan",
     "powerPlants": "St. Clair Power Plant",
+    "retirement": "Retiring in 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.763305,
@@ -913,6 +878,7 @@
   {
     "state": "Michigan",
     "powerPlants": "Trenton Channel Power Plant",
+    "retirement": "Unit 9 will retire in 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.123159,
@@ -921,6 +887,7 @@
   {
     "state": "Minnesota",
     "powerPlants": "Allen S. King Generating Plant",
+    "retirement": "Retiring in 2028.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 45.030332,
@@ -937,6 +904,7 @@
   {
     "state": "Minnesota",
     "powerPlants": "Hoot Lake Plant",
+    "retirement": "Units 2 and 3 will retire in 2021.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 46.290791,
@@ -945,6 +913,7 @@
   {
     "state": "Minnesota",
     "powerPlants": "Sherburne County Plant",
+    "retirement":"Unit 1 will retire in 2025, unit 2 will retire in 2022, and unit 3 will retire in 2034.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 45.378535,
@@ -1001,6 +970,7 @@
   {
     "state": "Missouri",
     "powerPlants": "Labadie Power Station",
+    "retirement": "Two units will retire in 2036, and the other two will retire in 2042.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 38.562183,
@@ -1009,7 +979,8 @@
   {
     "state": "Missouri",
     "powerPlants": "Meramec Power Plant",
-    "annualDirection": 90,
+    "retirement": "Retiring in 2022.", 
+   "annualDirection": 90,
     "direction": 180,
     "latitude": 38.40253,
     "longitude": -90.335768
@@ -1025,6 +996,7 @@
   {
     "state": "Missouri",
     "powerPlants": "Rush Island Power Station",
+    "retirement": "Retiring in 2039.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 38.13116,
@@ -1041,6 +1013,7 @@
   {
     "state": "Missouri",
     "powerPlants": "Sioux Power Plant",
+    "retirement": "Retiring in 2028.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 38.915012,
@@ -1073,6 +1046,7 @@
   {
     "state": "Montana",
     "powerPlants": "Lewis & Clark Station",
+    "retirement": "Retiring in 2021.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 47.678875,
@@ -1128,14 +1102,6 @@
   },
   {
     "state": "Nebraska",
-    "powerPlants": "Sheldon Station",
-    "annualDirection": 45,
-    "direction": 315,
-    "latitude": 40.552055,
-    "longitude": -96.783233
-  },
-  {
-    "state": "Nebraska",
     "powerPlants": "Western Sugar Cooperative Scottsbluff",
     "annualDirection": 90,
     "direction": 180,
@@ -1184,15 +1150,8 @@
   },
   {
     "state": "New Mexico",
-    "powerPlants": "Escalante Generating Station",
-    "annualDirection": 135,
-    "direction": 225,
-    "latitude": 35.415997,
-    "longitude": -108.083798
-  },
-  {
-    "state": "New Mexico",
     "powerPlants": "Four Corners Steam Plant",
+    "retirement": "Units 4 and 5 are retiring in 2031.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 36.689047,
@@ -1201,6 +1160,7 @@
   {
     "state": "New Mexico",
     "powerPlants": "San Juan Generating Station",
+    "retirement": "Units 1 and 4 are retiring in 2022.",
     "annualDirection": 135,
     "direction": 225,
     "latitude": 36.801667,
@@ -1225,6 +1185,7 @@
   {
     "state": "North Carolina",
     "powerPlants": "G. G. Allen Steam Plant",
+    "retirement": "Units 1, 2 and 3 are retiring in 2024, and units 4 and 5 are retiring in 2028.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 35.190278,
@@ -1345,6 +1306,7 @@
   {
     "state": "Ohio",
     "powerPlants": "Cardinal Plant",
+    "retirement": "Retiring in 2030.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 40.251872,
@@ -1369,6 +1331,7 @@
   {
     "state": "Ohio",
     "powerPlants": "Eastlake Power Plant",
+    "retirement": "Unit 6 is retiring in 2021.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 41.674858,
@@ -1377,6 +1340,7 @@
   {
     "state": "Ohio",
     "powerPlants": "Miami Fort Station",
+    "retirement": "Units 7 and 8 will retire in 2027.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 39.114243,
@@ -1393,6 +1357,7 @@
   {
     "state": "Ohio",
     "powerPlants": "Zimmer Generating Station",
+    "retirement": "Retiring before the end of 2027.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 38.867159,
@@ -1449,6 +1414,7 @@
   {
     "state": "Pennsylvania",
     "powerPlants": "Brunner Island Power Station",
+    "retirement": "Stop using coal by 2028.",
     "annualDirection": 45,
     "direction": 135,
     "latitude": 40.094167,
@@ -1513,6 +1479,7 @@
   {
     "state": "Pennsylvania",
     "powerPlants": "Montour Steam Station",
+    "retirement": "Stop using coal by 2025.",
     "annualDirection": 45,
     "direction": 135,
     "latitude": 41.069249,
@@ -1552,27 +1519,11 @@
   },
   {
     "state": "Pennsylvania",
-    "powerPlants": "Montour Steam Station",
-    "annualDirection": 45,
-    "direction": 135,
-    "latitude": 41.069249,
-    "longitude": -76.665755
-  },
-  {
-    "state": "Pennsylvania",
     "powerPlants": "Seward Power Plant",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 40.406076,
     "longitude": -79.033629
-  },
-  {
-    "state": "Pennsylvania",
-    "powerPlants": "Hatfields Ferry power station",
-    "annualDirection": 0,
-    "direction": 90,
-    "latitude": 39.853889,
-    "longitude": -79.927778
   },
   {
     "state": "Pennsylvania",
@@ -1584,19 +1535,11 @@
   },
   {
     "state": "Pennsylvania",
-    "powerPlants": "Westwood",
+    "powerPlants": "Westwood Generating Station",
     "annualDirection": 45,
     "direction": 135,
     "latitude": 40.618788,
     "longitude": -76.451047
-  },
-  {
-    "state": "South Carolina",
-    "powerPlants": "Cope Station",
-    "annualDirection": 270,
-    "direction": 360,
-    "latitude": 33.366889,
-    "longitude": -81.034444
   },
   {
     "state": "South Carolina",
@@ -1625,6 +1568,7 @@
   {
     "state": "South Carolina",
     "powerPlants": "Winyah Generating Station",
+    "retirement": "Two units will close by 2023, and two units will close by 2027.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 33.330767,
@@ -1633,6 +1577,7 @@
   {
     "state": "Tennessee",
     "powerPlants": "Bull Run Fossil Plant",
+    "retirement": "Retiring in 2023.",
     "annualDirection": 180,
     "direction": 270,
     "latitude": 36.021279,
@@ -1681,6 +1626,7 @@
   {
     "state": "Texas",
     "powerPlants": "Harrington Station",
+    "retirement": "Unit 1 will retire in 2036, unit 2 will retire in 2038, and unit 3 will retire in 2040.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 35.298973,
@@ -1689,6 +1635,7 @@
   {
     "state": "Texas",
     "powerPlants": "Welsh Power Plant",
+    "retirement": "Stop using coal in 2028.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 33.055,
@@ -1697,6 +1644,7 @@
   {
     "state": "Texas",
     "powerPlants": "Limestone Generating Station",
+    "retirement": "Retring in 2030.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 31.42333,
@@ -1729,6 +1677,7 @@
   {
     "state": "Texas",
     "powerPlants": "Pirkey Power Plant",
+    "retirement": "Retiring in 2023.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 32.46,
@@ -1753,6 +1702,7 @@
   {
     "state": "Texas",
     "powerPlants": "Tolk Station",
+    "retirement": "Retiring in 2037.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 34.183269,
@@ -1760,7 +1710,7 @@
   },
   {
     "state": "Texas",
-    "powerPlants": "Parishn Generating Station",
+    "powerPlants": "Parish Generating Station",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 29.475722,
@@ -1785,6 +1735,7 @@
   {
     "state": "Utah",
     "powerPlants": "Huntington Power Plant",
+    "retirement": "Retiring in 2036.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 39.379271,
@@ -1793,6 +1744,7 @@
   {
     "state": "Utah",
     "powerPlants": "Bonanza Power Plant",
+    "retirement": "Retiring in 2030.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 40.086497,
@@ -1801,6 +1753,7 @@
   {
     "state": "Utah",
     "powerPlants": "Intermountain Power Station",
+    "retirement": "Retiring in 2027.",
     "annualDirection": 270,
     "direction": 360,
     "latitude": 39.509193,
@@ -1817,6 +1770,7 @@
   {
     "state": "Virginia",
     "powerPlants": "Birchwood Power Facility",
+    "retirement": "Retiring in 2021.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 38.265423,
@@ -1825,6 +1779,7 @@
   {
     "state": "Virginia",
     "powerPlants": "Chesterfield Power Station",
+    "retirement": "Units 5 and 6 are retiring in 2023.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 37.382922,
@@ -1833,6 +1788,7 @@
   {
     "state": "Virginia",
     "powerPlants": "Clover Power Station",
+    "retirement": "Retiring in 2025.",
     "annualDirection": 90,
     "direction": 180,
     "latitude": 36.8707,
@@ -1849,6 +1805,7 @@
   {
     "state": "Washington",
     "powerPlants": "Centralia Power Plant",
+    "retirement": "Unit 2 is retiring in 2025.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 46.755557,
@@ -1921,6 +1878,7 @@
   {
     "state": "West Virginia",
     "powerPlants": "Pleasants Power Station",
+    "retirement": "Retiring in 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 39.365889,
@@ -1945,6 +1903,7 @@
   {
     "state": "Wisconsin",
     "powerPlants": "Edgewater Generating Station",
+    "retirement": "Unit 5 will retire by the end of 2022.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 43.715853,
@@ -1952,11 +1911,11 @@
   },
   {
     "state": "Wisconsin",
-    "powerPlants": "Genoa",
+    "powerPlants": "Genoa Generating Station",
     "annualDirection": 45,
     "direction": 315,
-    "latitude": "43°33′33″N 91°13′55″W",
-    "longitude": ""
+    "latitude": 43.559167,
+    "longitude": -91.231944
   },
   {
     "state": "Wisconsin",
@@ -1977,6 +1936,7 @@
   {
     "state": "Wisconsin",
     "powerPlants": "Weston Power Plant",
+    "retirement": "Unit 2 will retire by 2023.",
     "annualDirection": 45,
     "direction": 315,
     "latitude": 44.858063,
@@ -1985,6 +1945,7 @@
   {
     "state": "Wyoming",
     "powerPlants": "Dave Johnston Power Plant",
+    "retirement": "Retiring by 2027.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 42.838149,
@@ -2001,6 +1962,7 @@
   {
     "state": "Wyoming",
     "powerPlants": "Jim Bridger Steam Plant",
+    "retirement": "Unit 1 will retire by the end of 2023, unit 2 will retire by the end of 2028, and units 3 and 4 will retire in 2037.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 41.737522,
@@ -2017,6 +1979,7 @@
   {
     "state": "Wyoming",
     "powerPlants": "Naughton Power Plant",
+    "retirement": "Units 1 and 2 will retire in 2025.",
     "annualDirection": 0,
     "direction": 90,
     "latitude": 41.757232,
